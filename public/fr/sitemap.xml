@@ -2,297 +2,267 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:51534/fr/posts/post-2/</loc>
+    <loc>http://localhost:1313/fr/posts/post-2/</loc>
     <lastmod>2025-03-02T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/posts/post-2/"
+                href="http://localhost:1313/posts/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/posts/post-2/"
+                href="http://localhost:1313/zh/posts/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/posts/post-2/"
+                href="http://localhost:1313/fr/posts/post-2/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/</loc>
+    <loc>http://localhost:1313/fr/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/"
+                href="http://localhost:1313/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/"
+                href="http://localhost:1313/fr/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/categories/cat%C3%A9gorie1/</loc>
+    <loc>http://localhost:1313/fr/categories/cat%C3%A9gorie1/</loc>
+    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/categories/cat%C3%A9gorie1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:51534/fr/categories/cat%C3%A9gorie1/"
-                />
-  </url><url>
-    <loc>http://localhost:51534/fr/categories/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:51534/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/categories/"
+                href="http://localhost:1313/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/categories/category1/</loc>
+    <loc>http://localhost:1313/fr/categories/category1/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/categories/category1/"
+                href="http://localhost:1313/categories/category1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/categories/category1/"
+                href="http://localhost:1313/zh/categories/category1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/categories/category1/"
+                href="http://localhost:1313/fr/categories/category1/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/posts/post-5/</loc>
+    <loc>http://localhost:1313/fr/posts/post-5/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/posts/post-5/"
+                href="http://localhost:1313/posts/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/posts/post-5/"
+                href="http://localhost:1313/fr/posts/post-5/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/tags/%C3%A9tiquette1/</loc>
+    <loc>http://localhost:1313/fr/tags/%C3%A9tiquette1/</loc>
+    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/%C3%A9tiquette2/</loc>
+    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/post-1/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/tags/%C3%A9tiquette1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:51534/fr/tags/%C3%A9tiquette1/"
-                />
-  </url><url>
-    <loc>http://localhost:51534/fr/tags/%C3%A9tiquette2/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:51534/tags/%C3%A9tiquette2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:51534/fr/tags/%C3%A9tiquette2/"
-                />
-  </url><url>
-    <loc>http://localhost:51534/fr/posts/post-1/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:51534/posts/post-1/"
+                href="http://localhost:1313/posts/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/posts/post-1/"
+                href="http://localhost:1313/zh/posts/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/posts/post-1/"
+                href="http://localhost:1313/fr/posts/post-1/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/posts/</loc>
+    <loc>http://localhost:1313/fr/posts/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/posts/"
+                href="http://localhost:1313/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/posts/"
+                href="http://localhost:1313/zh/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/posts/"
+                href="http://localhost:1313/fr/posts/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/tags/tag1/</loc>
+    <loc>http://localhost:1313/fr/tags/tag1/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/tags/tag1/"
+                href="http://localhost:1313/tags/tag1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/tags/tag1/"
+                href="http://localhost:1313/zh/tags/tag1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/tags/tag1/"
+                href="http://localhost:1313/fr/tags/tag1/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/tags/tag2/</loc>
+    <loc>http://localhost:1313/fr/tags/tag2/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/tags/tag2/"
+                href="http://localhost:1313/tags/tag2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/tags/tag2/"
+                href="http://localhost:1313/zh/tags/tag2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/tags/tag2/"
+                href="http://localhost:1313/fr/tags/tag2/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/tags/</loc>
+    <loc>http://localhost:1313/fr/tags/</loc>
     <lastmod>2025-03-13T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/tags/"
+                href="http://localhost:1313/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/posts/post-4/</loc>
+    <loc>http://localhost:1313/fr/posts/post-4/</loc>
     <lastmod>2025-03-12T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/posts/post-4/"
+                href="http://localhost:1313/posts/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/posts/post-4/"
+                href="http://localhost:1313/fr/posts/post-4/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/posts/post-3/</loc>
+    <loc>http://localhost:1313/fr/posts/post-3/</loc>
     <lastmod>2025-03-12T12:57:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/posts/post-3/"
+                href="http://localhost:1313/posts/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/posts/post-3/"
+                href="http://localhost:1313/fr/posts/post-3/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/about/me/</loc>
+    <loc>http://localhost:1313/fr/about/me/</loc>
     <lastmod>2025-02-23T18:53:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/about/me/"
+                href="http://localhost:1313/about/me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/about/me/"
+                href="http://localhost:1313/zh/about/me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/about/me/"
+                href="http://localhost:1313/fr/about/me/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/about/</loc>
+    <loc>http://localhost:1313/fr/about/</loc>
     <lastmod>2025-02-23T18:53:25+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/about/"
+                href="http://localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/about/"
+                href="http://localhost:1313/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/about/"
+                href="http://localhost:1313/fr/about/"
                 />
   </url><url>
-    <loc>http://localhost:51534/fr/year/</loc>
+    <loc>http://localhost:1313/fr/year/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:51534/year/"
+                href="http://localhost:1313/year/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://localhost:51534/zh/year/"
+                href="http://localhost:1313/zh/year/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:51534/fr/year/"
+                href="http://localhost:1313/fr/year/"
                 />
   </url>
 </urlset>

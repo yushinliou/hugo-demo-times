@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A focused idler</title>
-    <link>http://localhost:51534/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on A focused idler</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:51534/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogging is hard, until you start it</title>
-      <link>http://localhost:51534/posts/post-2/</link>
+      <link>http://localhost:1313/posts/post-2/</link>
       <pubDate>Sun, 02 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:51534/posts/post-2/</guid>
+      <guid>http://localhost:1313/posts/post-2/</guid>
       <description>&lt;p&gt;Summary for your post&lt;/p&gt;</description>
     </item>
     <item>
       <title>Are you still there? I am Your second post</title>
-      <link>http://localhost:51534/posts/post-5/</link>
+      <link>http://localhost:1313/posts/post-5/</link>
       <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:51534/posts/post-5/</guid>
+      <guid>http://localhost:1313/posts/post-5/</guid>
       <description>&lt;p&gt;Summary for your post&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hi, I am your first post</title>
-      <link>http://localhost:51534/posts/post-1/</link>
+      <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:51534/posts/post-1/</guid>
-      <description>&lt;p&gt;Résumé du premier article&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Summary&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t panic if something went wrong</title>
-      <link>http://localhost:51534/posts/post-3/</link>
+      <link>http://localhost:1313/posts/post-3/</link>
       <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:51534/posts/post-3/</guid>
+      <guid>http://localhost:1313/posts/post-3/</guid>
       <description>&lt;p&gt;Summary for your post&lt;/p&gt;</description>
     </item>
     <item>
       <title>Star my repo if you like this meme</title>
-      <link>http://localhost:51534/posts/post-4/</link>
+      <link>http://localhost:1313/posts/post-4/</link>
       <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:51534/posts/post-4/</guid>
+      <guid>http://localhost:1313/posts/post-4/</guid>
       <description>&lt;p&gt;Summary for your second post&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:51534/about/me/</link>
+      <link>http://localhost:1313/about/me/</link>
       <pubDate>Sun, 23 Feb 2025 18:53:25 +0800</pubDate>
-      <guid>http://localhost:51534/about/me/</guid>
+      <guid>http://localhost:1313/about/me/</guid>
       <description>&lt;p&gt;summary of your about page&lt;/p&gt;</description>
     </item>
   </channel>
