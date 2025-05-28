@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Year on A focused idler</title>
-    <link>http://localhost:1313/zh/year/</link>
+    <link>http://localhost:51534/zh/year/</link>
     <description>Recent content in Year on A focused idler</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="http://localhost:1313/zh/year/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51534/zh/year/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

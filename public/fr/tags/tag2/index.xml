@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag2 on A focused idler</title>
-    <link>http://localhost:1313/fr/tags/tag2/</link>
+    <link>http://localhost:51534/fr/tags/tag2/</link>
     <description>Recent content in Tag2 on A focused idler</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51534/fr/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hi, I Am Your First Post</title>
-      <link>http://localhost:1313/fr/posts/post-1/</link>
+      <link>http://localhost:51534/fr/posts/post-1/</link>
       <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-1/</guid>
+      <guid>http://localhost:51534/fr/posts/post-1/</guid>
       <description>&lt;p&gt;Summary for first post&lt;/p&gt;</description>
     </item>
   </channel>

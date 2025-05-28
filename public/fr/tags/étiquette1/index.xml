@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Étiquette1 on A focused idler</title>
-    <link>http://localhost:1313/fr/tags/%C3%A9tiquette1/</link>
+    <link>http://localhost:51534/fr/tags/%C3%A9tiquette1/</link>
     <description>Recent content in Étiquette1 on A focused idler</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/tags/%C3%A9tiquette1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:51534/fr/tags/%C3%A9tiquette1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bloguer est difficile, jusqu&#39;à ce que vous commenciez</title>
-      <link>http://localhost:1313/fr/posts/post-2/</link>
+      <link>http://localhost:51534/fr/posts/post-2/</link>
       <pubDate>Sun, 02 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-2/</guid>
+      <guid>http://localhost:51534/fr/posts/post-2/</guid>
       <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
     </item>
     <item>
       <title>Êtes-vous toujours là ? Je suis votre deuxième article</title>
-      <link>http://localhost:1313/fr/posts/post-5/</link>
+      <link>http://localhost:51534/fr/posts/post-5/</link>
       <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-5/</guid>
+      <guid>http://localhost:51534/fr/posts/post-5/</guid>
       <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ajoutez une étoile à mon dépôt si vous aimez ce mème</title>
-      <link>http://localhost:1313/fr/posts/post-4/</link>
+      <link>http://localhost:51534/fr/posts/post-4/</link>
       <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-4/</guid>
+      <guid>http://localhost:51534/fr/posts/post-4/</guid>
       <description>&lt;p&gt;Résumé de votre deuxième article&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ne paniquez pas si quelque chose ne va pas</title>
-      <link>http://localhost:1313/fr/posts/post-3/</link>
+      <link>http://localhost:51534/fr/posts/post-3/</link>
       <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-3/</guid>
+      <guid>http://localhost:51534/fr/posts/post-3/</guid>
       <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
     </item>
   </channel>

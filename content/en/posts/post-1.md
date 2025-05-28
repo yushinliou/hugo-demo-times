@@ -1,5 +1,5 @@
 ---
-title: Salut, je suis votre premier article
+title: Hi, I am your first post
 date: 2025-03-13T12:57:19+08:00
 lastmod: 2025-03-13T12:57:19+08:00
 author: "Un oisif concentré"
