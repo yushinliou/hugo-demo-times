@@ -1,0 +1,3 @@
+[submodule "themes/times"]
+	path = themes/times
+	url = git@github.com:yushinliou/hugo-theme-times.git
