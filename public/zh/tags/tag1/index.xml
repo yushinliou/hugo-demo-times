@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tag1 on A focused idler</title>
-    <link>http://localhost:50795/zh/tags/tag1/</link>
+    <link>http://localhost:1313/zh/tags/tag1/</link>
     <description>Recent content in Tag1 on A focused idler</description>
     <generator>Hugo</generator>
     <language>zh</language>
     <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:50795/zh/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/zh/tags/tag1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>貼文一號</title>
-      <link>http://localhost:50795/zh/posts/post-1/</link>
+      <link>http://localhost:1313/zh/posts/post-1/</link>
       <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:50795/zh/posts/post-1/</guid>
+      <guid>http://localhost:1313/zh/posts/post-1/</guid>
       <description>&lt;p&gt;貼文一摘要。&lt;/p&gt;</description>
     </item>
     <item>
       <title>貼文二號</title>
-      <link>http://localhost:50795/zh/posts/post-2/</link>
+      <link>http://localhost:1313/zh/posts/post-2/</link>
       <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:50795/zh/posts/post-2/</guid>
+      <guid>http://localhost:1313/zh/posts/post-2/</guid>
       <description>&lt;p&gt;貼文二摘要。&lt;/p&gt;</description>
     </item>
   </channel>
