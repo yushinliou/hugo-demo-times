@@ -1,24 +1,25 @@
 ---
-title: Hi, I am your first post
+title: "Hi, I am your first post"
 date: 2025-03-13T12:57:19+08:00
 lastmod: 2025-03-13T12:57:19+08:00
-author: "Un oisif concentré"
+author: "A Focused Idler"
 avatar: "/avatar/avatar-512X512.png"
 cover: "/cover/cover.png"
-coverAlt: "Texte alternatif pour l'image de couverture. Facultatif mais important !"
+coverAlt: "Add alt for your cover!"
 images:
   - "/cover/cover-meme.png"
 categories:
-  - "catégorie1"
+  - "category1"
 tags:
-  - "étiquette1"
-  - "étiquette2"
+  - "category1"
+  - "category1"
 nolastmod: true
 draft: false
 isCJKLanguage: false
 ---
 
-Résumé du premier article
+Summary
+
 <!--more-->
 
-Le contenu de votre premier article. 
+Put content in here

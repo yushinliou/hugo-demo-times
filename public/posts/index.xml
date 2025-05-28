@@ -27,7 +27,7 @@
       <link>http://localhost:1313/posts/post-1/</link>
       <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
       <guid>http://localhost:1313/posts/post-1/</guid>
-      <description>&lt;p&gt;Résumé du premier article&lt;/p&gt;</description>
+      <description>&lt;p&gt;Summary&lt;/p&gt;</description>
     </item>
     <item>
       <title>Don&#39;t panic if something went wrong</title>
