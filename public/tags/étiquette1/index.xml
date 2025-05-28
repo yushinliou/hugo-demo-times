@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Étiquette1 on A focused idler</title>
+    <link>http://localhost:1313/tags/%C3%A9tiquette1/</link>
+    <description>Recent content in Étiquette1 on A focused idler</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%C3%A9tiquette1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salut, je suis votre premier article</title>
+      <link>http://localhost:1313/posts/post-1/</link>
+      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
+      <guid>http://localhost:1313/posts/post-1/</guid>
+      <description>&lt;p&gt;Résumé du premier article&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

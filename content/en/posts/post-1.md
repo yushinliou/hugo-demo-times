@@ -1,24 +1,24 @@
 ---
-title: Hi, I Am Your First Post
+title: Salut, je suis votre premier article
 date: 2025-03-13T12:57:19+08:00
 lastmod: 2025-03-13T12:57:19+08:00
-author: "A focused idler"
+author: "Un oisif concentré"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover.svg"
-coverAlt: "Alt for cover image. Optional but important!"
+cover: "/cover/cover.png"
+coverAlt: "Texte alternatif pour l'image de couverture. Facultatif mais important !"
 images:
   - "/cover/cover-meme.png"
 categories:
-  - "category1"
+  - "catégorie1"
 tags:
-  - "tag1"
-  - "tag2"
+  - "étiquette1"
+  - "étiquette2"
 nolastmod: true
 draft: false
 isCJKLanguage: false
 ---
 
-Summary for first post
+Résumé du premier article
 <!--more-->
 
-Your first post's content. 
+Le contenu de votre premier article. 

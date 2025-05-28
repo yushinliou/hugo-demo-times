@@ -2,31 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A focused idler</title>
-    <link>http://localhost:1313/fr/</link>
+    <link>http://localhost:50795/fr/</link>
     <description>Recent content on A focused idler</description>
     <generator>Hugo</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:50795/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>premier poste</title>
-      <link>http://localhost:1313/fr/posts/post-1/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-1/</guid>
-      <description>&lt;p&gt;Résumé du premier poste&lt;/p&gt;</description>
+      <title>Blogging is hard, until you start it</title>
+      <link>http://localhost:50795/fr/posts/post-2/</link>
+      <pubDate>Sun, 02 Mar 2025 12:57:19 +0800</pubDate>
+      <guid>http://localhost:50795/fr/posts/post-2/</guid>
+      <description>&lt;p&gt;iquette2&amp;quot;&#xA;nolastmod: tru&lt;/p&gt;</description>
     </item>
     <item>
-      <title>deuxième article</title>
-      <link>http://localhost:1313/fr/posts/post-2/</link>
+      <title>Êtes-vous toujours là ? Je suis votre deuxième article</title>
+      <link>http://localhost:50795/fr/posts/post-5/</link>
+      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
+      <guid>http://localhost:50795/fr/posts/post-5/</guid>
+      <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hi, I Am Your First Post</title>
+      <link>http://localhost:50795/fr/posts/post-1/</link>
+      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
+      <guid>http://localhost:50795/fr/posts/post-1/</guid>
+      <description>&lt;p&gt;Summary for first post&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ajoutez une étoile à mon dépôt si vous aimez ce mème</title>
+      <link>http://localhost:50795/fr/posts/post-4/</link>
       <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-2/</guid>
+      <guid>http://localhost:50795/fr/posts/post-4/</guid>
       <description>&lt;p&gt;Résumé de votre deuxième article&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Ne paniquez pas si quelque chose ne va pas</title>
+      <link>http://localhost:50795/fr/posts/post-3/</link>
+      <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
+      <guid>http://localhost:50795/fr/posts/post-3/</guid>
+      <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>À propos</title>
-      <link>http://localhost:1313/fr/about/me/</link>
+      <link>http://localhost:50795/fr/about/me/</link>
       <pubDate>Sun, 23 Feb 2025 18:53:25 +0800</pubDate>
-      <guid>http://localhost:1313/fr/about/me/</guid>
+      <guid>http://localhost:50795/fr/about/me/</guid>
       <description>&lt;p&gt;résumé de votre page à propos&lt;/p&gt;</description>
     </item>
   </channel>

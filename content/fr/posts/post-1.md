@@ -1,10 +1,11 @@
 ---
-title: premier poste
+title: Hi, I Am Your First Post
 date: 2025-03-13T12:57:19+08:00
 lastmod: 2025-03-13T12:57:19+08:00
 author: "A focused idler"
-avatar: "/avatar/avatar-512x512.png"
-cover: "/cover/cover-meme.png"
+avatar: "/avatar/avatar-512X512.png"
+cover: "/cover/cover.png"
+coverAlt: "Alt for cover image. Optional but important!"
 images:
   - "/cover/cover-meme.png"
 categories:
@@ -17,8 +18,7 @@ draft: false
 isCJKLanguage: false
 ---
 
-Résumé du premier poste
-
+Summary for first post
 <!--more-->
 
-Contenu de votre premier poste
+Your first post's content. 
