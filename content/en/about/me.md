@@ -8,7 +8,7 @@ About this site
 
 <!--more-->
 
-This hugo theme is designed by [Yu Shin Liou](https://github.com/yushinliou). Welcome to visit my [Blog](https://focusidler.com) to learn more of my work.
+This hugo theme is designed by [Yu Shin Liou](https://github.com/yushinliou). Welcome to visit my [Blog](https://focusidler.com) or [Portfolio](https://yushinliou.github.io) to learn more of my work.
 
 Github repository of this theme is [here](https://github.com/yushinliou/hugo-theme-times).
 

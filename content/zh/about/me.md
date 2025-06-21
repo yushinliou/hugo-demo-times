@@ -13,6 +13,6 @@ Content of your about page.
 
 ![alt text](/image.png)
 
-這個hugo主題由 [Yu Shin Liou](https://github.com/yushinliou) 設計. 也歡迎訪問我的 [Blog](https://focusidler.com)。
+這個hugo主題由 [Yu Shin Liou](https://github.com/yushinliou) 設計，歡迎訪問我的 [Blog](https://focusidler.com)或者[Portfolio](https://yushinliou.github.io)。
 
 這個主題的Github repository 在 [這裡](https://github.com/yushinliou/hugo-theme-times)。
