@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fintech on Kai Rowan</title>
+    <link>http://localhost:1313/fr/tags/fintech/</link>
+    <description>Recent content in Fintech on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 13 Mar 2025 12:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/tags/fintech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redesign d&#39;une application bancaire mobile</title>
+      <link>http://localhost:1313/fr/posts/post-8/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-8/</guid>
+      <description>&lt;p&gt;Une refonte propre et intuitive d&amp;rsquo;une interface bancaire mobile.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home page on A focused idler</title>
+    <title>Home page on Kai Rowan</title>
     <link>http://localhost:1313/about/</link>
-    <description>Recent content in Home page on A focused idler</description>
+    <description>Recent content in Home page on Kai Rowan</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 23 Feb 2025 18:53:25 +0800</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/about/me/</link>
       <pubDate>Sun, 23 Feb 2025 18:53:25 +0800</pubDate>
       <guid>http://localhost:1313/about/me/</guid>
-      <description>&lt;p&gt;summary of your about page&lt;/p&gt;</description>
+      <description>&lt;p&gt;About this site&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

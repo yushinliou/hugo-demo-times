@@ -1,26 +1,27 @@
 ---
-title: "Blogging is hard, until you start it"
-date: 2025-03-02T12:57:19+08:00
-lastmod: 2025-03-02T12:57:19+08:00
-author: "A focused idler"
+title: "Dark Mode for Productivity App"
+date: 2025-03-19T13:45:00+08:00
+lastmod: 2025-03-19T13:45:00+08:00
+author: "A Focused Idler"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover-glass-cat.jpg"
-coverAlt: "Title will be alt if you didn't set coverAlt"
+cover: "/cover/cover2.png"
+coverAlt: "Dark mode design"
 images:
-  - "/cover/cover-glass-cat.jpg"
+  - "/cover/cover2.png"
 categories:
-  - "category1"
+  - "Theming"
 tags:
-  - "tag1"
-  - "tag2"
+  - "Dark Mode"
+  - "Accessibility"
 nolastmod: true
 draft: false
 isCJKLanguage: false
-weight: 10
 ---
 
-Summary for your post
+Implemented dark mode across UI components.
 
 <!--more-->
 
-Your second content
+Used system preferences and token-based theming. Ensured good contrast and accessibility compliance across modes.
+
+> *This is a fictional project created for demonstration purposes. [Cover Refer from here](https://dribbble.com/shots/26000763--PareaLabs-Web3-Gaming-Portal-Redefining-Blockchain-Play)*

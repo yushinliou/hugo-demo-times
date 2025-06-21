@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mobile on Kai Rowan</title>
+    <link>http://localhost:1313/tags/mobile/</link>
+    <description>Recent content in Mobile on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Mar 2025 12:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mobile/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redesigning a Mobile Banking App</title>
+      <link>http://localhost:1313/posts/post-8/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/post-8/</guid>
+      <description>&lt;p&gt;A clean and intuitive redesign of a mobile banking interface.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

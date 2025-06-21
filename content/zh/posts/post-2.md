@@ -1,24 +1,28 @@
 ---
-title: 貼文二號
-date: 2025-03-12T12:57:19+08:00
-lastmod: 2025-03-12T12:57:19+08:00
-author: "專心摸魚"
+title: "生產力應用程式的深色模式"
+date: 2025-03-19T13:45:00+08:00
+lastmod: 2025-03-19T13:45:00+08:00
+author: "專注的閒人"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover-cat.jpeg"
+cover: "/cover/cover2.png"
+coverAlt: "深色模式設計"
 images:
-  - "/cover/cover-cat.jpeg"
+  - "/cover/cover2.png"
 categories:
-  - "category1"
+  - "主題設計"
 tags:
-  - "tag1"
-  - "tag2"
+  - "深色模式"
+  - "無障礙"
 nolastmod: true
 draft: false
-isCJKLanguage: true
+isCJKLanguage: false
 ---
 
-貼文二摘要。
+已在所有 UI 元件中實現深色模式。
 
 <!--more-->
 
-貼文二內容文字。
+使用系統偏好設定與基於 token 的主題設計。確保各模式下的對比度良好並符合無障礙標準。
+
+> *本專案為示範用途而虛構。 [Cover Refer from here](https://dribbble.com/shots/26000763--PareaLabs-Web3-Gaming-Portal-Redefining-Blockchain-Play)*
+

@@ -1,25 +1,27 @@
 ---
-title: "Are you still there? I am Your second post"
-date: 2025-03-13T12:57:19+08:00
-lastmod: 2025-03-13T12:57:19+08:00
-author: "A focused idler"
+title: "Design System Starter Kit"
+date: 2025-03-16T14:12:00+08:00
+lastmod: 2025-03-16T14:12:00+08:00
+author: "A Focused Idler"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover-surprise-cat.png"
-coverAlt: "Title will be alt if you didn't set coverAlt"
+cover: "/cover/cover5.png"
+coverAlt: "Figma design system"
 images:
-  - "/cover/cover-surprise-cat.png"
+  - "/cover/cover5.png"
 categories:
-  - "category1"
+  - "Design Systems"
 tags:
-  - "tag1"
-  - "tag2"
+  - "Figma"
+  - "Components"
 nolastmod: true
 draft: false
 isCJKLanguage: false
 ---
 
-Summary for your post
+Creating a reusable and scalable design system in Figma.
 
 <!--more-->
 
-Your post's content.
+This starter kit includes color tokens, spacing scales, and interactive components with variants. It helped the team ship designs 30% faster.
+
+> *This is a fictional project created for demonstration purposes. [Cover Refer from here](https://dribbble.com/shots/20741775-Dropdown-Selection-Design-System)*

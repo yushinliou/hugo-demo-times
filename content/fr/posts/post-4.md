@@ -1,25 +1,27 @@
 ---
-title: "Ajoutez une étoile à mon dépôt si vous aimez ce mème"
-date: 2025-03-12T12:57:19+08:00
-lastmod: 2025-03-12T12:57:19+08:00
-author: "Un oisif concentré"
+title: "Flux d'Onboarding pour une Application Sociale"
+date: 2025-03-17T11:33:00+08:00
+lastmod: 2025-03-17T11:33:00+08:00
+author: "Un Rêveur Concentré"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover-cute-cat.jpg"
-coverAlt: "Le titre sera l'alternative si vous ne définissez pas coverAlt"
+cover: "/cover/cover4.png"
+coverAlt: "Animation d'onboarding"
 images:
-  - "/cover/cover-cute-cat.jpg"
+  - "/cover/cover4.png"
 categories:
-  - "catégorie1"
+  - "Flux Utilisateur"
 tags:
-  - "étiquette1"
-  - "étiquette2"
+  - "Onboarding"
+  - "Animation"
 nolastmod: true
 draft: false
 isCJKLanguage: false
 ---
 
-Résumé de votre deuxième article
+Rendre l'onboarding convivial, rapide et amusant.
 
 <!--more-->
 
-Le contenu de votre deuxième article
+Nous avons utilisé des illustrations, des indicateurs de progression et la preuve sociale pour guider les utilisateurs. Les tests A/B ont montré une amélioration de 20 % de la rétention au premier jour.
+
+> *Ceci est un projet fictif créé à des fins de démonstration. [Cover Refer from here](https://dribbble.com/shots/15930977-Onboarding-Animation)*

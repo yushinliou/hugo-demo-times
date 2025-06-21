@@ -2,102 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/fr/posts/post-2/</loc>
-    <lastmod>2025-03-02T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/posts/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/post-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/cat%C3%A9gorie1/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/categories/category1/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/category1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/categories/category1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/categories/category1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/posts/post-5/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/posts/post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/posts/post-5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/%C3%A9tiquette1/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/%C3%A9tiquette2/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/fr/posts/post-1/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -114,8 +20,53 @@
                 href="http://localhost:1313/fr/posts/post-1/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/categories/</loc>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/conception-dinteraction/</loc>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/</loc>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/micro-interactions/</loc>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/plaisir/</loc>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/fr/posts/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -132,44 +83,8 @@
                 href="http://localhost:1313/fr/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/tags/tag1/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/tag1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/tags/tag1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/tag1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/tags/tag2/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/tag2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://localhost:1313/zh/tags/tag2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/tags/tag2/"
-                />
-  </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>
-    <lastmod>2025-03-13T12:57:19+08:00</lastmod>
+    <lastmod>2025-03-20T16:22:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -186,21 +101,51 @@
                 href="http://localhost:1313/fr/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/posts/post-4/</loc>
-    <lastmod>2025-03-12T12:57:19+08:00</lastmod>
+    <loc>http://localhost:1313/fr/tags/accessibilit%C3%A9/</loc>
+    <lastmod>2025-03-19T13:45:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/mode-sombre/</loc>
+    <lastmod>2025-03-19T13:45:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/post-2/</loc>
+    <lastmod>2025-03-19T13:45:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/posts/post-4/"
+                href="http://localhost:1313/posts/post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:1313/fr/posts/post-4/"
+                href="http://localhost:1313/fr/posts/post-2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/th%C3%A9matisation/</loc>
+    <lastmod>2025-03-19T13:45:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/design-responsive/</loc>
+    <lastmod>2025-03-18T08:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/portfolio/</loc>
+    <lastmod>2025-03-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/portfolio/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/posts/post-3/</loc>
-    <lastmod>2025-03-12T12:57:19+08:00</lastmod>
+    <lastmod>2025-03-18T08:00:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -208,8 +153,226 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/posts/post-3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/web-design/</loc>
+    <lastmod>2025-03-18T08:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/categories/web-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/categories/web-design/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/animation/</loc>
+    <lastmod>2025-03-17T11:33:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/animation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/animation/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/post-4/</loc>
+    <lastmod>2025-03-17T11:33:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/post-4/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/flux-utilisateur/</loc>
+    <lastmod>2025-03-17T11:33:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/onboarding/</loc>
+    <lastmod>2025-03-17T11:33:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/onboarding/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/onboarding/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/composants/</loc>
+    <lastmod>2025-03-16T14:12:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/figma/</loc>
+    <lastmod>2025-03-16T14:12:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/figma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/tags/figma/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/figma/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/post-5/</loc>
+    <lastmod>2025-03-16T14:12:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/post-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/post-5/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/syst%C3%A8mes-de-design/</loc>
+    <lastmod>2025-03-16T14:12:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/conception-dinterface/</loc>
+    <lastmod>2025-03-15T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/post-6/</loc>
+    <lastmod>2025-03-15T09:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/post-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/post-6/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/tableau-de-bord/</loc>
+    <lastmod>2025-03-15T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/visualisation-de-donn%C3%A9es/</loc>
+    <lastmod>2025-03-15T09:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/e-commerce/</loc>
+    <lastmod>2025-03-14T10:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/e-commerce/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/e-commerce/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/post-7/</loc>
+    <lastmod>2025-03-14T10:20:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/post-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/post-7/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/post-7/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/parcours-de-paiement/</loc>
+    <lastmod>2025-03-14T10:20:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/recherche-ux/</loc>
+    <lastmod>2025-03-14T10:20:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/categories/conception-ui/</loc>
+    <lastmod>2025-03-13T12:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/fintech/</loc>
+    <lastmod>2025-03-13T12:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/fintech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/fintech/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/tags/mobile/</loc>
+    <lastmod>2025-03-13T12:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/mobile/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/tags/mobile/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/posts/post-8/</loc>
+    <lastmod>2025-03-13T12:00:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/posts/post-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://localhost:1313/zh/posts/post-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:1313/fr/posts/post-8/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/about/me/</loc>

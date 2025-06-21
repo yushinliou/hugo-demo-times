@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Design on Kai Rowan</title>
+    <link>http://localhost:1313/fr/categories/web-design/</link>
+    <description>Recent content in Web Design on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 18 Mar 2025 08:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/web-design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site Portfolio pour Créatifs</title>
+      <link>http://localhost:1313/fr/posts/post-3/</link>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-3/</guid>
+      <description>&lt;p&gt;Création d’un modèle de portfolio léger et élégant.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

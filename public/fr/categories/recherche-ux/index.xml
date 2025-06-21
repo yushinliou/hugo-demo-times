@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recherche UX on Kai Rowan</title>
+    <link>http://localhost:1313/fr/categories/recherche-ux/</link>
+    <description>Recent content in Recherche UX on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 14 Mar 2025 10:20:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/fr/categories/recherche-ux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Optimisation du parcours de paiement e-commerce</title>
+      <link>http://localhost:1313/fr/posts/post-7/</link>
+      <pubDate>Fri, 14 Mar 2025 10:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-7/</guid>
+      <description>&lt;p&gt;Amélioration de l&amp;rsquo;expérience d&amp;rsquo;achat pour réduire les abandons.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

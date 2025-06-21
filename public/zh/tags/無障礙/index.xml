@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>無障礙 on Kai Rowan</title>
+    <link>http://localhost:1313/zh/tags/%E7%84%A1%E9%9A%9C%E7%A4%99/</link>
+    <description>Recent content in 無障礙 on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 19 Mar 2025 13:45:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/%E7%84%A1%E9%9A%9C%E7%A4%99/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>生產力應用程式的深色模式</title>
+      <link>http://localhost:1313/zh/posts/post-2/</link>
+      <pubDate>Wed, 19 Mar 2025 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/post-2/</guid>
+      <description>&lt;p&gt;已在所有 UI 元件中實現深色模式。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

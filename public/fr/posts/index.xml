@@ -1,47 +1,68 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home page on A focused idler</title>
+    <title>Posts on Kai Rowan</title>
     <link>http://localhost:1313/fr/posts/</link>
-    <description>Recent content in Home page on A focused idler</description>
+    <description>Recent content in Posts on Kai Rowan</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 16:22:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Bloguer est difficile, jusqu&#39;à ce que vous commenciez</title>
-      <link>http://localhost:1313/fr/posts/post-2/</link>
-      <pubDate>Sun, 02 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-2/</guid>
-      <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Êtes-vous toujours là ? Je suis votre deuxième article</title>
-      <link>http://localhost:1313/fr/posts/post-5/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-5/</guid>
-      <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hi, I Am Your First Post</title>
+      <title>Bibliothèque de Micro-interactions</title>
       <link>http://localhost:1313/fr/posts/post-1/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
+      <pubDate>Thu, 20 Mar 2025 16:22:00 +0800</pubDate>
       <guid>http://localhost:1313/fr/posts/post-1/</guid>
-      <description>&lt;p&gt;Summary for first post&lt;/p&gt;</description>
+      <description>&lt;p&gt;Conception de micro-interactions agréables pour les composants d’interface utilisateur.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ajoutez une étoile à mon dépôt si vous aimez ce mème</title>
-      <link>http://localhost:1313/fr/posts/post-4/</link>
-      <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/posts/post-4/</guid>
-      <description>&lt;p&gt;Résumé de votre deuxième article&lt;/p&gt;</description>
+      <title>Mode Sombre pour l&#39;Application de Productivité</title>
+      <link>http://localhost:1313/fr/posts/post-2/</link>
+      <pubDate>Wed, 19 Mar 2025 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-2/</guid>
+      <description>&lt;p&gt;Mode sombre implémenté sur tous les composants de l’interface.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Ne paniquez pas si quelque chose ne va pas</title>
+      <title>Site Portfolio pour Créatifs</title>
       <link>http://localhost:1313/fr/posts/post-3/</link>
-      <pubDate>Wed, 12 Mar 2025 12:57:19 +0800</pubDate>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0800</pubDate>
       <guid>http://localhost:1313/fr/posts/post-3/</guid>
-      <description>&lt;p&gt;Résumé de votre article&lt;/p&gt;</description>
+      <description>&lt;p&gt;Création d’un modèle de portfolio léger et élégant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Flux d&#39;Onboarding pour une Application Sociale</title>
+      <link>http://localhost:1313/fr/posts/post-4/</link>
+      <pubDate>Mon, 17 Mar 2025 11:33:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-4/</guid>
+      <description>&lt;p&gt;Rendre l&amp;rsquo;onboarding convivial, rapide et amusant.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kit de démarrage pour système de design</title>
+      <link>http://localhost:1313/fr/posts/post-5/</link>
+      <pubDate>Sun, 16 Mar 2025 14:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-5/</guid>
+      <description>&lt;p&gt;Créer un système de design réutilisable et évolutif dans Figma.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interface de Tableau de Bord SaaS</title>
+      <link>http://localhost:1313/fr/posts/post-6/</link>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-6/</guid>
+      <description>&lt;p&gt;Conception d&amp;rsquo;un tableau de bord modulaire avec des widgets personnalisables.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Optimisation du parcours de paiement e-commerce</title>
+      <link>http://localhost:1313/fr/posts/post-7/</link>
+      <pubDate>Fri, 14 Mar 2025 10:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-7/</guid>
+      <description>&lt;p&gt;Amélioration de l&amp;rsquo;expérience d&amp;rsquo;achat pour réduire les abandons.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Redesign d&#39;une application bancaire mobile</title>
+      <link>http://localhost:1313/fr/posts/post-8/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/posts/post-8/</guid>
+      <description>&lt;p&gt;Une refonte propre et intuitive d&amp;rsquo;une interface bancaire mobile.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

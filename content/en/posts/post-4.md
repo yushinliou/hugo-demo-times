@@ -1,25 +1,27 @@
 ---
-title: "Star my repo if you like this meme"
-date: 2025-03-12T12:57:19+08:00
-lastmod: 2025-03-12T12:57:19+08:00
-author: "A focused idler"
+title: "Onboarding Flow for a Social App"
+date: 2025-03-17T11:33:00+08:00
+lastmod: 2025-03-17T11:33:00+08:00
+author: "A Focused Idler"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover-cute-cat.jpg"
-coverAlt: "Title will be alt if you didn't set coverAlt"
+cover: "/cover/cover4.png"
+coverAlt: "Onboarding animation"
 images:
-  - "/cover/cover-cute-cat.jpg"
+  - "/cover/cover4.png"
 categories:
-  - "category1"
+  - "User Flow"
 tags:
-  - "tag1"
-  - "tag2"
+  - "Onboarding"
+  - "Animation"
 nolastmod: true
 draft: false
 isCJKLanguage: false
 ---
 
-Summary for your second post
+Making onboarding friendly, fast, and fun.
 
 <!--more-->
 
-Your second post's content
+We used illustrations, progress indicators, and social proof to guide users. A/B testing showed a 20% improvement in day-1 retention.
+
+> *This is a fictional project created for demonstration purposes. [Cover Refer from here](https://dribbble.com/shots/15930977-Onboarding-Animation)*

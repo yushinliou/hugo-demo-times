@@ -1,25 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A focused idler</title>
+    <title>Tags on Kai Rowan</title>
     <link>http://localhost:1313/zh/tags/</link>
-    <description>Recent content in Tags on A focused idler</description>
+    <description>Recent content in Tags on Kai Rowan</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 16:22:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/zh/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/zh/tags/tag1/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/tag1/</guid>
+      <title>微互動</title>
+      <link>http://localhost:1313/zh/tags/%E5%BE%AE%E4%BA%92%E5%8B%95/</link>
+      <pubDate>Thu, 20 Mar 2025 16:22:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E5%BE%AE%E4%BA%92%E5%8B%95/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag2</title>
-      <link>http://localhost:1313/zh/tags/tag2/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/zh/tags/tag2/</guid>
+      <title>愉悅</title>
+      <link>http://localhost:1313/zh/tags/%E6%84%89%E6%82%85/</link>
+      <pubDate>Thu, 20 Mar 2025 16:22:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E6%84%89%E6%82%85/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>深色模式</title>
+      <link>http://localhost:1313/zh/tags/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Wed, 19 Mar 2025 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E6%B7%B1%E8%89%B2%E6%A8%A1%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>無障礙</title>
+      <link>http://localhost:1313/zh/tags/%E7%84%A1%E9%9A%9C%E7%A4%99/</link>
+      <pubDate>Wed, 19 Mar 2025 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E7%84%A1%E9%9A%9C%E7%A4%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>響應式設計</title>
+      <link>http://localhost:1313/zh/tags/%E9%9F%BF%E6%87%89%E5%BC%8F%E8%A8%AD%E8%A8%88/</link>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E9%9F%BF%E6%87%89%E5%BC%8F%E8%A8%AD%E8%A8%88/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>作品集</title>
+      <link>http://localhost:1313/zh/tags/%E4%BD%9C%E5%93%81%E9%9B%86/</link>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E4%BD%9C%E5%93%81%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>導覽</title>
+      <link>http://localhost:1313/zh/tags/%E5%B0%8E%E8%A6%BD/</link>
+      <pubDate>Mon, 17 Mar 2025 11:33:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E5%B0%8E%E8%A6%BD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>動畫</title>
+      <link>http://localhost:1313/zh/tags/%E5%8B%95%E7%95%AB/</link>
+      <pubDate>Mon, 17 Mar 2025 11:33:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E5%8B%95%E7%95%AB/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Figma</title>
+      <link>http://localhost:1313/zh/tags/figma/</link>
+      <pubDate>Sun, 16 Mar 2025 14:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/figma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>元件</title>
+      <link>http://localhost:1313/zh/tags/%E5%85%83%E4%BB%B6/</link>
+      <pubDate>Sun, 16 Mar 2025 14:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E5%85%83%E4%BB%B6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>儀表板</title>
+      <link>http://localhost:1313/zh/tags/%E5%84%80%E8%A1%A8%E6%9D%BF/</link>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E5%84%80%E8%A1%A8%E6%9D%BF/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>資料視覺化</title>
+      <link>http://localhost:1313/zh/tags/%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/</link>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>電子商務</title>
+      <link>http://localhost:1313/zh/tags/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99/</link>
+      <pubDate>Fri, 14 Mar 2025 10:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>結帳流程</title>
+      <link>http://localhost:1313/zh/tags/%E7%B5%90%E5%B8%B3%E6%B5%81%E7%A8%8B/</link>
+      <pubDate>Fri, 14 Mar 2025 10:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E7%B5%90%E5%B8%B3%E6%B5%81%E7%A8%8B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>金融科技</title>
+      <link>http://localhost:1313/zh/tags/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E9%87%91%E8%9E%8D%E7%A7%91%E6%8A%80/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>行動端</title>
+      <link>http://localhost:1313/zh/tags/%E8%A1%8C%E5%8B%95%E7%AB%AF/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/tags/%E8%A1%8C%E5%8B%95%E7%AB%AF/</guid>
       <description></description>
     </item>
   </channel>

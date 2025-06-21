@@ -1,25 +1,27 @@
 ---
-title: "Don't panic if something went wrong"
-date: 2025-03-12T12:57:19+08:00
-lastmod: 2025-03-12T12:57:19+08:00
-author: "A focused idler"
+title: "Portfolio Website for Creatives"
+date: 2025-03-18T08:00:00+08:00
+lastmod: 2025-03-18T08:00:00+08:00
+author: "A Focused Idler"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover-shock-cat.png"
-coverAlt: "Title will be alt if you didn't set coverAlt"
+cover: "/cover/cover3.png"
+coverAlt: "Creative portfolio"
 images:
-  - "/cover/cover-shock-cat.png"
+  - "/cover/cover3.png"
 categories:
-  - "category1"
+  - "Web Design"
 tags:
-  - "tag1"
-  - "tag2"
+  - "Portfolio"
+  - "Responsive Design"
 nolastmod: true
 draft: false
 isCJKLanguage: false
 ---
 
-Summary for your post
+Building a lightweight, elegant portfolio template.
 
 <!--more-->
 
-Your post's content
+Focused on mobile-first design and visual storytelling. Used a grid layout with animated transitions and smooth scrolling.
+
+> *This is a fictional project created for demonstration purposes. [Cover Refer from here](https://dribbble.com/shots/22276184-Olio-Framer-Portfolio-Template-Mobile)*

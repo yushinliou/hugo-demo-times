@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI設計 on Kai Rowan</title>
+    <link>http://localhost:1313/zh/categories/ui%E8%A8%AD%E8%A8%88/</link>
+    <description>Recent content in UI設計 on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 13 Mar 2025 12:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/categories/ui%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>重新設計行動銀行應用</title>
+      <link>http://localhost:1313/zh/posts/post-8/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/post-8/</guid>
+      <description>&lt;p&gt;對行動銀行介面進行了簡潔直觀的重新設計。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

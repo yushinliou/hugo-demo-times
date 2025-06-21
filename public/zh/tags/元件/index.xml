@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>元件 on Kai Rowan</title>
+    <link>http://localhost:1313/zh/tags/%E5%85%83%E4%BB%B6/</link>
+    <description>Recent content in 元件 on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sun, 16 Mar 2025 14:12:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/%E5%85%83%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>設計系統入門套件</title>
+      <link>http://localhost:1313/zh/posts/post-5/</link>
+      <pubDate>Sun, 16 Mar 2025 14:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/post-5/</guid>
+      <description>&lt;p&gt;在 Figma 中建立可重複使用且可擴展的設計系統。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

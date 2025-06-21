@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+
+<html lang="fr"
+  x-data
+  :class="$store.darkMode.class()"
+  :data-theme="$store.darkMode.theme()">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optimisation du parcours de paiement e-commerce | Kai Rowan</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&display=swap">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap">
+
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+
+
+<noscript>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@200..900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap" rel="stylesheet">
+</noscript>
+
+<meta name="robots" content="noai, noimageai">
+<meta name="googlebot" content="noai, noimageai">
+<meta name="bingbot" content="noai, noimageai">
+<meta name="yandex" content="noai, noimageai">
+<meta name="baidu" content="noai, noimageai">
+<meta name="msnbot" content="noai, noimageai">
+<meta name="teoma" content="noai, noimageai">
+<meta name="slurp" content="noai, noimageai">
+<meta name="duckduckbot" content="noai, noimageai">
+<meta name="facebook" content="noai, noimageai">
+<meta name="twitter" content="noai, noimageai">
+<meta name="pinterest" content="noai, noimageai">
+<meta name="linkedin" content="noai, noimageai">
+<meta name="whatsapp" content="noai, noimageai">
+<meta name="telegram" content="noai, noimageai">
+<meta name="signal" content="noai, noimageai">
+<meta name="instagram" content="noai, noimageai">
+<meta name="tiktok" content="noai, noimageai">
+<meta name="snapchat" content="noai, noimageai">
+<meta name="youtube" content="noai, noimageai">
+<meta name="vimeo" content="noai, noimageai">
+<meta name="twitch" content="noai, noimageai">
+<meta name="spotify" content="noai, noimageai">
+<meta name="soundcloud" content="noai, noimageai">
+<meta name="apple" content="noai, noimageai">
+<meta name="android" content="noai, noimageai">
+<meta name="windows" content="noai, noimageai">
+<meta name="linux" content="noai, noimageai">
+<meta name="macos" content="noai, noimageai">
+<meta name="ios" content="noai, noimageai">
+
+
+
+   <link rel="icon" type="image/png" href="http://localhost:1313/favicon/favicon-96x96.png" sizes="96x96" /> 
+   <link rel="icon" type="image/svg+xml" href="http://localhost:1313/favicon/favicon.svg" /> 
+   <link rel="shortcut icon" href="http://localhost:1313/favicon/favicon.ico" /> 
+   <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313/favicon/apple-touch-icon.png" /> 
+   <link rel="manifest" href="http://localhost:1313/favicon/site.webmanifest" /> 
+
+
+<link rel="canonical" href="http://localhost:1313/fr/posts/post-7/" />
+
+
+
+<meta name="author" content="Un Rêveur Concentré" />
+<meta name="description" content="Amélioration de l&rsquo;expérience d&rsquo;achat pour réduire les abandons.
+" />
+
+
+
+<meta name="keywords" content="E-Commerce,Parcours De Paiement">
+
+
+
+<meta name="generator" content="Hugo 0.144.2">
+
+
+<meta property="og:url" content="http://localhost:1313/fr/posts/post-7/">
+  <meta property="og:site_name" content="Kai Rowan">
+  <meta property="og:title" content="Optimisation du parcours de paiement e-commerce">
+  <meta property="og:description" content="Amélioration de l’expérience d’achat pour réduire les abandons.">
+  <meta property="og:locale" content="fr">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2025-03-14T10:20:00+08:00">
+    <meta property="article:modified_time" content="2025-03-14T10:20:00+08:00">
+    <meta property="article:tag" content="E-Commerce">
+    <meta property="article:tag" content="Parcours De Paiement">
+    <meta property="og:image" content="http://localhost:1313/cover/cover7.png">
+
+
+
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1313/cover/cover7.png">
+  <meta name="twitter:title" content="Optimisation du parcours de paiement e-commerce">
+  <meta name="twitter:description" content="Amélioration de l’expérience d’achat pour réduire les abandons.">
+
+
+
+
+<link rel="stylesheet" href="/css/output.css" />
+
+
+
+
+    
+
+<style>
+  pre {
+    padding: 1em;
+    overflow: auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+    
+
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+
+    
+
+
+
+
+
+  </head>
+
+  <body x-data="{
+    flip: false,
+  }">
+    
+    <div id="dream-global-bg"></div>
+
+    <header class="border-b">
+  
+  <div class="flex justify-between items-center px-4 py-2 border-b">
+    
+  
+  
+  
+
+  
+    
+    <div class="relative group inline-block border px-4 py-2 hover:shadow-[2px_2px_0_0_black] dark:hover:shadow-[2px_2px_0_0_white]">
+      <button class="text-sm font-semibold cursor-pointer flex items-center gap-1">
+        france
+        <ion-icon name="chevron-down-outline"></ion-icon>
+      </button>
+      <div class="absolute hidden group-hover:block bg-white dark:bg-black border mt-1 z-10 min-w-full text-sm text-left shadow-md">
+        
+          <a href="http://localhost:1313/posts/post-7/"
+            class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-800 ">
+            English
+          </a>
+        
+          <a href="http://localhost:1313/zh/posts/post-7/"
+            class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-800 ">
+            中文
+          </a>
+        
+          <a href="http://localhost:1313/fr/posts/post-7/"
+            class="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-800 font-bold">
+            france
+          </a>
+        
+      </div>
+    </div>
+  
+
+    
+    
+    
+    <div class="text-sm font-semibold hover:underline">
+      <a href="/fr/about/me" class="hover:opacity-90 transition">About me</a>
+    </div>
+    
+  </div>
+
+  
+  <div class="flex justify-center items-center w-full gap-3 py-2 border-b">
+    <div class="avatar items-center flex p-2 justify-center align-center">
+      <div class="w-12 h-12 rounded-full overflow-hidden">
+        <a href="/fr/about/me" class="hover:opacity-90 transition">
+        <img src="/avatar/avatar-512X512.png" alt="Kai Rowan, A designer" class="block w-full h-full object-cover"/>
+        </a>
+      </div>
+    </div>
+    
+    <div class="text-5xl font-semibold font-playfair items-center flex justify-center uppercase">
+      <a href="http://localhost:1313/" class="hover:opacity-90 transition">
+      Kai Rowan, A designer
+      </a>
+    </div>
+    
+  </div>
+
+  
+  <nav class="flex flex-col items-center gap-4 font-semibold font-merriweather">
+    <div class="flex gap-4">
+    
+    <div class="flex gap-6">
+      
+      
+      
+        
+<a class="group inline-flex items-center p-2 rounded-md cursor-pointer hover:underline decoration-2" href="/fr/index.xml" title="RSS">
+  
+  <span class="text-m">RSS</span>
+</a>
+
+
+      
+        
+<a class="group inline-flex items-center p-2 rounded-md cursor-pointer hover:underline decoration-2" href="/fr/posts" title="Archives">
+  
+  <span class="text-m">Archives</span>
+</a>
+
+
+      
+        
+<a class="group inline-flex items-center p-2 rounded-md cursor-pointer hover:underline decoration-2" href="/fr/categories" title="Toutes les catégories">
+  
+  <span class="text-m">Toutes les catégories</span>
+</a>
+
+
+      
+        
+<a class="group inline-flex items-center p-2 rounded-md cursor-pointer hover:underline decoration-2" href="/fr/tags" title="Tous les étiquettes">
+  
+  <span class="text-m">Tous les étiquettes</span>
+</a>
+
+
+      
+    </div>
+  </nav>
+</header>
+
+
+    <div class="px-2 md:px-10">
+      <div class="container ">
+        <main>
+          
+<div class="lg:grid lg:grid-cols-4 gap-4 px-4 mb-8">
+  <div class="hidden lg:block">
+    
+  </div>
+
+  <div class="lg:col-span-2">
+    <article class="mx-auto prose prose-quoteless dark:prose-invert" id="dream-single-post-main" itemscope itemtype="http://schema.org/Article">
+      
+  <meta itemprop="name" content="Optimisation du parcours de paiement e-commerce">
+  <meta itemprop="description" content="Amélioration de l’expérience d’achat pour réduire les abandons.">
+  <meta itemprop="datePublished" content="2025-03-14T10:20:00+08:00">
+  <meta itemprop="dateModified" content="2025-03-14T10:20:00+08:00">
+  <meta itemprop="wordCount" content="63">
+  <meta itemprop="image" content="http://localhost:1313/cover/cover7.png">
+  <meta itemprop="keywords" content="E-Commerce,Parcours De Paiement">
+
+      <header class="mt-8">
+        <h1 itemprop="headline">Optimisation du parcours de paiement e-commerce</h1>
+        <p class="text-sm">
+          
+            vendredi, mars 14, 2025
+          
+
+          <span>1 minute de lecture</span>
+
+          
+        </p>
+
+        
+        <div class="flex justify-between">
+          
+            <div class="flex items-center gap-2">
+  
+  <span>By  </span>
+  
+
+  <span itemprop="author" itemscope itemtype="https://schema.org/Person">
+  
+    
+      <span itemprop="name">Un Rêveur Concentré</span>
+    
+  
+  </span>
+</div>
+
+          
+
+          <div class="flex items-center gap-2">
+  
+  
+
+  
+  
+  
+  
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://x.com/intent/post?text=Optimisation%20du%20parcours%20de%20paiement%20e-commerce&amp;url=http://localhost:1313/fr/posts/post-7/" target="_blank" rel="noopener noreferrer"
+      title="Share on X">
+      <ion-icon class="group-hover:text-primary-content" name="logo-x"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://facebook.com/sharer/sharer.php?u=http://localhost:1313/fr/posts/post-7/" target="_blank" rel="noopener noreferrer"
+      title="Share on Facebook">
+      <ion-icon class="group-hover:text-primary-content" name="logo-facebook"></ion-icon>
+    </a>
+  
+    <a class="group inline-flex items-center p-2 rounded-full cursor-pointer hover:bg-primary"
+      href="https://wa.me/?text=Optimisation%20du%20parcours%20de%20paiement%20e-commerce%20http://localhost:1313/fr/posts/post-7/" target="_blank" rel="noopener noreferrer"
+      title="Share on WhatsApp">
+      <ion-icon class="group-hover:text-primary-content" name="logo-whatsapp"></ion-icon>
+    </a>
+  
+
+  
+  
+</div>
+
+        </div>
+      </header>
+
+      <section id="dream-single-post-content" itemprop="articleBody" class="pb-10">
+        
+        <img src="/cover/cover7.png" alt="Paiement e-commerce" class="max-w-full max-h-[50vh] mx-auto"/>
+        
+
+        <p>Amélioration de l&rsquo;expérience d&rsquo;achat pour réduire les abandons.</p>
+<p>Ce projet a consisté à simplifier les étapes de paiement, à ajouter des éléments de confiance et à valider les champs du formulaire. Nous avons augmenté le taux de finalisation des paiements de 15 % après la mise en œuvre.</p>
+
+
+
+  <blockquote>
+    <p><em>Ceci est un projet fictif créé à des fins de démonstration. <a href="https://dribbble.com/shots/25594161-Real-Estate-Website-Design-for-Property-Listings" target="_blank">Cover Refer from here</a>
+</em></p>
+  </blockquote>
+
+        
+        <div class="mt-8 flex items-center text-sm text-gray-500 dark:text-gray-300">
+          
+          <ion-icon name="bookmark-outline" class="mr-2 w-5"></ion-icon>
+      
+          
+          
+    
+      
+          
+          <div>
+            
+              
+              <a href="/fr/categories/recherche-ux" class="text-gray-600 hover:underline hover:text-gray-700 dark:hover:text-white no-underline">
+                Recherche UX
+              </a>
+            
+          </div>
+        </div>
+      
+      
+      
+
+      
+    </section>
+
+      
+      
+      <div class="flex flex-col md:flex-row justify-between gap-4 py-4 mb-10">
+        
+        <a class="group btn" href="/fr/posts/post-6/" title="Interface de Tableau de Bord SaaS">
+          <ion-icon name="chevron-back"></ion-icon>
+          <div class="inline-flex flex-col items-start">
+            <span class="text-base-content/60 group-hover:text-neutral-content/60 text-xs font-normal"></span>
+            <span class="max-w-48 truncate">Interface de Tableau de Bord SaaS</span>
+          </div>
+        </a>
+        
+
+        
+        <a class="group btn" href="/fr/posts/post-8/" title="Redesign d&#39;une application bancaire mobile">
+          <div class="inline-flex flex-col items-end">
+            <span class="text-base-content/60 group-hover:text-neutral-content/60 text-xs font-normal"></span>
+            <span class="max-w-48 truncate">Redesign d&#39;une application bancaire mobile</span>
+          </div>
+          <ion-icon name="chevron-forward"></ion-icon>
+        </a>
+        
+      </div>
+      
+
+      
+    </article>
+  </div>
+
+  <div class="hidden lg:flex lg:flex-col lg:items-end mt-10">
+    
+      <nav id="TableOfContents"></nav>
+    
+  </div>
+  
+</div>
+
+
+        </main>
+      </div>
+    </div>
+
+  </div>
+  <div class="px-20 md:px-10 border-t">
+    
+<footer class="flex justify-between items-center gap-2 px-4 py-12">
+
+  <div>
+  
+  <p>
+    © 2024 - 2025 Kai Rowan
+  </p>
+  
+
+  
+  <p>CC BY-NC-SA 4.0</p>
+  
+</div>
+
+  <div
+  x-data="{ icons: [
+    { name: 'moon', status: 'y' },
+    { name: 'sunny', status: 'n' },
+    { name: 'desktop', status: 'auto' }
+  ] }"
+  class="flex items-center gap-2 h-[32px] px-2 bg-base-100 border border-base-content/30 rounded-full"
+>
+  <template x-for="icon in icons">
+    <div
+      role="button"
+      tabindex="0"
+      :aria-label="'Select ' + icon.name + ' mode'"
+      class="group inline-flex justify-center items-center p-1 rounded-full cursor-pointer hover:bg-primary"
+      :class="$store.darkMode.icon() === icon.name && 'bg-primary'"
+      @click="$store.darkMode.toggle(icon.status)"
+    >
+      <ion-icon
+        :name="`${icon.name}-outline`"
+        class="group-hover:text-primary-content"
+        :class="$store.darkMode.icon() === icon.name && 'text-primary-content'"
+      >
+      </ion-icon>
+    </div>
+  </template>
+</div>
+
+</footer>
+
+  </div>
+
+  
+    <script>
+  window.lightTheme = "wireframe"
+  window.darkTheme = "black"
+</script>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/imagesloaded@5.0.0/imagesloaded.pkgd.min.js" integrity="sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+
+  
+  
+  <script src="/js/grid.js"></script>
+
+
+
+
+<script src="/js/main.js"></script>
+
+    
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    <script type="module" src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.4.0/dist/ionicons/ionicons.js"></script>
+  </body>
+</html>

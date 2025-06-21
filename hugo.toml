@@ -1,6 +1,6 @@
 baseURL = "https://hugo-demo-times.pages.dev"
 defaultContentLanguage = "en"
-title = "A focused idler"
+title = "Kai Rowan"
 theme = "times"
 
 [markup]
@@ -14,9 +14,6 @@ theme = "times"
     [markup.goldmark.parser]
       autoHeadingID = true
       autoHeadingIDType = "github"
-  [markup.highlight]
-    noClasses = false
-    style = "dracula"
 
 [taxonomies]
   category = "categories"
@@ -41,21 +38,21 @@ theme = "times"
     weight = 3
 
 [languages.en.params]
-  description = "We don't need to be busy, we need to be focused"
+  description = "About me"
   reading_speed = 212
-  newsletterDescription = "English newsletter description"
-  substackEmbedURL = "https://afocusidler.substack.com/embed"
+  # newsletterDescription = "English newsletter description"
+  # substackEmbedURL = "https://afocusidler.substack.com/embed"
 
 [languages.zh.params]
-  description = "We don't need to be busy, we need to be focused."
+  description = "About me"
   reading_speed = 500
-  newsletterDescription = "中文 newsletter description"
-  substackEmbedURL = "https://afocusedidlerzh.substack.com/embed"
+  # newsletterDescription = "中文 newsletter description"
+  # substackEmbedURL = "https://afocusedidlerzh.substack.com/embed"
 
 [languages.fr.params]
-  description = "We don't need to be busy, we need to be focused."
+  description = "About me"
   reading_speed = 212
-  newsletterDescription = "Fr newsletter description" # if you didn't set this, it will not show
+  # newsletterDescription = "Fr newsletter description" # if you didn't set this, it will not show
   # substackEmbedURL = "https://afocusedidlerzh.substack.com/embed" # if you didn't set this, it will use the default substackEmbedURL in [languages.en.params] or your default substackEmbedURL in [params]
   
 [languages.zh.menu]
@@ -78,11 +75,11 @@ theme = "times"
 # ID = ""
 
 [params]
-  description = "專心摸魚"
-  author = "A Focused Idler"
+  headerTitle = "Kai Rowan, A designer"
+  author = "Kai Rowan"
   mainSections = ["posts"]
   featuredPosts = 3
-  motto = "Don't be busy, be focus"
+  motto = "About me"
   footerBottomText = "CC BY-NC-SA 4.0"
   rss = true
   email = "focusidler@gmail.com"
@@ -92,7 +89,6 @@ theme = "times"
   showTableOfContents = true
   showSummaryCoverInPost = true
   headerAvatar = "avatar/avatar-512X512.png"
-  headerTitle = "A FOCUSED IDLER"
   showPrevNextPost = true
   # byText = "Author"
   # backgroundImage = "me/background.jpg"
@@ -100,7 +96,8 @@ theme = "times"
   # footer
   siteStartYear = 2024
   hasCJKLanguage = true
-  substackEmbedURL = "https://afocusidler.substack.com/embed" # embed URL, not directed URL, you can find this in substack -> publication -> Embeddable subscribe button
+  # embed URL, not directed URL, you can find this in substack -> publication -> Embeddable subscribe button
+  # substackEmbedURL = "https://afocusidler.substack.com/embed" # if you didn't set this, it will not show
   
 # options
 # You can use https://favicon.io/favicon-generator/ to make sure the favicon works will on all browsers and devices.
@@ -113,7 +110,6 @@ theme = "times"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
-
 
 # stickyNav = true
 # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]

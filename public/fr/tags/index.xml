@@ -1,39 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on A focused idler</title>
+    <title>Tags on Kai Rowan</title>
     <link>http://localhost:1313/fr/tags/</link>
-    <description>Recent content in Tags on A focused idler</description>
+    <description>Recent content in Tags on Kai Rowan</description>
     <generator>Hugo</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Mar 2025 12:57:19 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 16:22:00 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Étiquette1</title>
-      <link>http://localhost:1313/fr/tags/%C3%A9tiquette1/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/tags/%C3%A9tiquette1/</guid>
+      <title>Micro-Interactions</title>
+      <link>http://localhost:1313/fr/tags/micro-interactions/</link>
+      <pubDate>Thu, 20 Mar 2025 16:22:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/micro-interactions/</guid>
       <description></description>
     </item>
     <item>
-      <title>Étiquette2</title>
-      <link>http://localhost:1313/fr/tags/%C3%A9tiquette2/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/tags/%C3%A9tiquette2/</guid>
+      <title>Plaisir</title>
+      <link>http://localhost:1313/fr/tags/plaisir/</link>
+      <pubDate>Thu, 20 Mar 2025 16:22:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/plaisir/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag1</title>
-      <link>http://localhost:1313/fr/tags/tag1/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/tags/tag1/</guid>
+      <title>Accessibilité</title>
+      <link>http://localhost:1313/fr/tags/accessibilit%C3%A9/</link>
+      <pubDate>Wed, 19 Mar 2025 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/accessibilit%C3%A9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Tag2</title>
-      <link>http://localhost:1313/fr/tags/tag2/</link>
-      <pubDate>Thu, 13 Mar 2025 12:57:19 +0800</pubDate>
-      <guid>http://localhost:1313/fr/tags/tag2/</guid>
+      <title>Mode Sombre</title>
+      <link>http://localhost:1313/fr/tags/mode-sombre/</link>
+      <pubDate>Wed, 19 Mar 2025 13:45:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/mode-sombre/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Design Responsive</title>
+      <link>http://localhost:1313/fr/tags/design-responsive/</link>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/design-responsive/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/fr/tags/portfolio/</link>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/portfolio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Animation</title>
+      <link>http://localhost:1313/fr/tags/animation/</link>
+      <pubDate>Mon, 17 Mar 2025 11:33:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/animation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Onboarding</title>
+      <link>http://localhost:1313/fr/tags/onboarding/</link>
+      <pubDate>Mon, 17 Mar 2025 11:33:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/onboarding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Composants</title>
+      <link>http://localhost:1313/fr/tags/composants/</link>
+      <pubDate>Sun, 16 Mar 2025 14:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/composants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Figma</title>
+      <link>http://localhost:1313/fr/tags/figma/</link>
+      <pubDate>Sun, 16 Mar 2025 14:12:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/figma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tableau De Bord</title>
+      <link>http://localhost:1313/fr/tags/tableau-de-bord/</link>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/tableau-de-bord/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualisation De Données</title>
+      <link>http://localhost:1313/fr/tags/visualisation-de-donn%C3%A9es/</link>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/visualisation-de-donn%C3%A9es/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E-Commerce</title>
+      <link>http://localhost:1313/fr/tags/e-commerce/</link>
+      <pubDate>Fri, 14 Mar 2025 10:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Parcours De Paiement</title>
+      <link>http://localhost:1313/fr/tags/parcours-de-paiement/</link>
+      <pubDate>Fri, 14 Mar 2025 10:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/parcours-de-paiement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fintech</title>
+      <link>http://localhost:1313/fr/tags/fintech/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/fintech/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mobile</title>
+      <link>http://localhost:1313/fr/tags/mobile/</link>
+      <pubDate>Thu, 13 Mar 2025 12:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/fr/tags/mobile/</guid>
       <description></description>
     </item>
   </channel>

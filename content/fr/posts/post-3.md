@@ -1,25 +1,27 @@
 ---
-title: "Ne paniquez pas si quelque chose ne va pas"
-date: 2025-03-12T12:57:19+08:00
-lastmod: 2025-03-12T12:57:19+08:00
-author: "Un oisif concentré"
+title: "Site Portfolio pour Créatifs"
+date: 2025-03-18T08:00:00+08:00
+lastmod: 2025-03-18T08:00:00+08:00
+author: "Un Rêveur Concentré"
 avatar: "/avatar/avatar-512X512.png"
-cover: "/cover/cover-shock-cat.png"
-coverAlt: "Le titre sera utilisé comme texte alternatif si vous ne définissez pas coverAlt"
+cover: "/cover/cover3.png"
+coverAlt: "Portfolio créatif"
 images:
-  - "/cover/cover-shock-cat.png"
+  - "/cover/cover3.png"
 categories:
-  - "catégorie1"
+  - "Web Design"
 tags:
-  - "étiquette1"
-  - "étiquette2"
+  - "Portfolio"
+  - "Design Responsive"
 nolastmod: true
 draft: false
 isCJKLanguage: false
 ---
 
-Résumé de votre article
+Création d’un modèle de portfolio léger et élégant.
 
 <!--more-->
 
-Le contenu de votre article
+Axé sur le design mobile-first et la narration visuelle. Utilisation d’une grille avec des transitions animées et un défilement fluide.
+
+> *Ceci est un projet fictif créé à des fins de démonstration. [Cover Refer from here](https://dribbble.com/shots/22276184-Olio-Framer-Portfolio-Template-Mobile)*

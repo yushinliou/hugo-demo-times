@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>響應式設計 on Kai Rowan</title>
+    <link>http://localhost:1313/zh/tags/%E9%9F%BF%E6%87%89%E5%BC%8F%E8%A8%AD%E8%A8%88/</link>
+    <description>Recent content in 響應式設計 on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 18 Mar 2025 08:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/%E9%9F%BF%E6%87%89%E5%BC%8F%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>創意人士的作品集網站</title>
+      <link>http://localhost:1313/zh/posts/post-3/</link>
+      <pubDate>Tue, 18 Mar 2025 08:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/post-3/</guid>
+      <description>&lt;p&gt;打造輕量且優雅的作品集模板。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

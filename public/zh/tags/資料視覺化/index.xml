@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>資料視覺化 on Kai Rowan</title>
+    <link>http://localhost:1313/zh/tags/%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/</link>
+    <description>Recent content in 資料視覺化 on Kai Rowan</description>
+    <generator>Hugo</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 15 Mar 2025 09:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/zh/tags/%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SaaS 儀表板 UI</title>
+      <link>http://localhost:1313/zh/posts/post-6/</link>
+      <pubDate>Sat, 15 Mar 2025 09:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/zh/posts/post-6/</guid>
+      <description>&lt;p&gt;設計一個模組化的儀表板，具備可自訂的小工具。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
